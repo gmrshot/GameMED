@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState, useRef } from "react";
+import Histology from "./Histology.jsx";
 
 /* =========================================================
    Utilities (no external libs)
@@ -804,6 +805,7 @@ export default function GameMED() {
         <div className="flex gap-2">
           <button onClick={() => setTab("vignettes")} className={cx("px-4 py-2 rounded-2xl text-base", tab === "vignettes" ? "bg-indigo-600" : "bg-zinc-800")}>Patient Vignettes</button>
           <button onClick={() => setTab("topics")} className={cx("px-4 py-2 rounded-2xl text-base", tab === "topics" ? "bg-indigo-600" : "bg-zinc-800")}>Topics</button>
+          <button onClick={() => setTab("histology")} className={cx("px-4 py-2 rounded-2xl text-base", tab === "histology" ? "bg-indigo-600" : "bg-zinc-800")}>Histology</button>
         </div>
 
         {/* TOPICS TAB */}
@@ -900,7 +902,14 @@ export default function GameMED() {
           </div>
         )}
 
-        {/* VIGNETTES TAB */}
+        
+        {/* HISTOLOGY TAB */}
+        {tab === "histology" && (
+          <div className="space-y-5">
+            <Histology />
+          </div>
+        )}
+{/* VIGNETTES TAB */}
         {tab === "vignettes" && (
           <div className="space-y-5">
             {/* Filter UI */}
