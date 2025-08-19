@@ -1,6 +1,8 @@
+// src/main.jsx
 import React from "react";
 import ReactDOM from "react-dom/client";
-import GameMED from "./pages/Game.jsx"; // <-- render your new file
+import "./index.css";             // ✅ bring back your styles
+import GameMED from "./pages/Game.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
