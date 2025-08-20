@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Nucleic Acids, Chromatin & Gene Expression",
+    "subtopics": [
+      {
+        "name": "Denaturation & Melting Temperature (Tm)"
+      },
+      {
+        "name": "Hybridization & Stringency (Temp/Salt)"
+      },
+      {
+        "name": "Prokaryotic DNA: Circular, Supercoils, Gyrase"
+      },
+      {
+        "name": "Eukaryotic DNA & Telomeres"
+      },
+      {
+        "name": "Repetitive DNA: LINEs/SINEs, Mini/Microsatellites"
+      },
+      {
+        "name": "Chromatin & Nucleosome: Euchromatin vs Heterochromatin"
+      },
+      {
+        "name": "Epigenetics: DNA Methylation & Histone Acetylation"
+      },
+      {
+        "name": "Transcription: Initiation, Elongation, Termination"
+      },
+      {
+        "name": "Transcription Inhibitors: Rifampin & α‑Amanitin"
+      },
+      {
+        "name": "RNA Processing: 5′ Cap, Poly(A), Splicing (+Disease)"
+      },
+      {
+        "name": "Translation Initiation: Shine‑Dalgarno & Kozak"
+      },
+      {
+        "name": "Translation Elongation & rRNA Catalysis (A‑P‑E)"
+      },
+      {
+        "name": "Ribosome‑Targeting Antibiotics"
+      }
+    ]
+  },
+  {
+    "name": "DNA Replication & Repair",
+    "subtopics": [
+      {
+        "name": "Replication Overview & Enzymes"
+      },
+      {
+        "name": "Eukaryotic Polymerases (α, δ, ε) & PCNA"
+      },
+      {
+        "name": "Topoisomerases & Inhibitors (Ciprofloxacin, Etoposide)"
+      },
+      {
+        "name": "Telomerase & End‑Replication Problem"
+      },
+      {
+        "name": "Mutation Types & DNA Damage Sources"
+      },
+      {
+        "name": "Repair Pathways: BER, NER, MMR"
+      },
+      {
+        "name": "Recombination‑Mediated Repair & Tumor Suppressors"
+      }
+    ]
+  },
+  {
+    "name": "Bacterial Genetics & Virulence",
+    "subtopics": [
+      {
+        "name": "Transposition"
+      },
+      {
+        "name": "Transformation (Gram+ / Gram−)"
+      },
+      {
+        "name": "Conjugation (F+, Hfr; Gram+ Pheromone System)"
+      },
+      {
+        "name": "Transduction (Generalized vs Specialized)"
+      },
+      {
+        "name": "Operon Regulation"
+      },
+      {
+        "name": "Virulence Factors & A/B Toxins"
+      },
+      {
+        "name": "Biofilms & Quorum Sensing"
+      }
+    ]
+  },
+  {
+    "name": "Histology & Pathology",
+    "subtopics": [
+      {
+        "name": "Slide Workflow: Fixation → Processing → Embedding → Sectioning"
+      },
+      {
+        "name": "H&E Basics: Basophilic vs Eosinophilic"
+      },
+      {
+        "name": "Special Stains: PAS/Alcian, Trichrome, Silver/Reticulin, Von Kossa, Prussian Blue"
+      },
+      {
+        "name": "Epithelium Identification"
+      },
+      {
+        "name": "Connective Tissue"
+      },
+      {
+        "name": "Muscle Types: Skeletal, Cardiac, Smooth"
+      },
+      {
+        "name": "Nervous Tissue"
+      },
+      {
+        "name": "Nucleus & Nucleolus; Nuclear Pores & Lamins"
+      },
+      {
+        "name": "Injury: Reversible vs Irreversible; Hyperplasia → Dysplasia → CIS → Invasive"
+      },
+      {
+        "name": "Cervical Path: LSIL/HSIL, Colposcopy, LEEP"
+      },
+      {
+        "name": "Microscopy & Sectioning Planes (SEM/TEM, planes of section)"
+      }
+    ]
+  }
+]
