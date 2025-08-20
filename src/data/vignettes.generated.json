@@ -1,0 +1,2522 @@
+[
+  {
+    "id": 20001,
+    "topicId": "denaturation",
+    "stem": "Two 500-bp DNA fragments differ only in GC content (68% vs 38% GC). Which best predicts melting behavior?",
+    "choices": [
+      "Higher GC fragment has higher Tm due to stronger base stacking and 3 H-bonds",
+      "Lower GC fragment has higher Tm because AT pairs unstack less",
+      "Tm depends only on length, so both equal",
+      "DNA shows hypochromic shift at 260 nm upon melting",
+      "Tm increases as salt is removed completely"
+    ],
+    "answer": 0,
+    "explanation": "GC-rich DNA melts at a higher temperature; melting produces a hyperchromic (\u2191A260) shift and is stabilized by salt."
+  },
+  {
+    "id": 20002,
+    "topicId": "denaturation",
+    "stem": "Rapid ice plunge after denaturation most likely causes what?",
+    "choices": [
+      "Poor renaturation from kinetic trapping; slow cooling with salt is preferred",
+      "Efficient renaturation because fast cooling favors perfect matches",
+      "No effect of salt on renaturation stringency",
+      "Backbone cleavage of phosphodiester bonds",
+      "Complete loss of base stacking at room temp"
+    ],
+    "answer": 0,
+    "explanation": "Renaturation needs gradual cooling and ionic strength to stabilize proper base pairing."
+  },
+  {
+    "id": 20003,
+    "topicId": "denaturation",
+    "stem": "Which change increases hybridization stringency?",
+    "choices": [
+      "Raise temperature and lower salt during washes",
+      "Lower temperature and increase salt",
+      "Lower both temperature and salt",
+      "Raise temperature and increase salt",
+      "Add formamide to decrease stringency"
+    ],
+    "answer": 0,
+    "explanation": "High stringency is achieved by higher temperature and/or lower salt, destabilizing mismatches."
+  },
+  {
+    "id": 20004,
+    "topicId": "denaturation",
+    "stem": "The increased A260 during DNA melting is called:",
+    "choices": [
+      "Hyperchromic shift from base unstacking",
+      "Hypochromic shift from increased stacking",
+      "Fluorescence quenching of bases",
+      "Phosphodiester breakage",
+      "Covalent crosslinking"
+    ],
+    "answer": 0,
+    "explanation": "Unstacked bases absorb more UV at 260 nm (hyperchromicity); backbone remains intact."
+  },
+  {
+    "id": 20005,
+    "topicId": "denaturation",
+    "stem": "A student insists denaturation breaks the DNA backbone. Best correction?",
+    "choices": [
+      "Denaturation disrupts H-bonds/stacking, not phosphodiester bonds",
+      "Denaturation breaks phosphodiester bonds but preserves pairing",
+      "Denaturation equals depurination",
+      "Denaturation requires topoisomerase I",
+      "Ligase is required for denaturation"
+    ],
+    "answer": 0,
+    "explanation": "Melting separates strands by noncovalent disruption; the backbone remains intact."
+  },
+  {
+    "id": 20006,
+    "topicId": "hybridization",
+    "stem": "A low-stringency Southern detects GLUT1 and GLUT2 with one probe because:",
+    "choices": [
+      "Related sequences can anneal under low stringency",
+      "Only perfect complements anneal at any stringency",
+      "Ligase is required for hybridization",
+      "mRNA lacks a poly(A) tail",
+      "DNA denatures irreversibly in high salt"
+    ],
+    "answer": 0,
+    "explanation": "Low stringency (cooler, higher salt) tolerates mismatches."
+  },
+  {
+    "id": 20007,
+    "topicId": "hybridization",
+    "stem": "Best condition to discriminate a single-nucleotide variant by hybridization:",
+    "choices": [
+      "High temperature and low salt washes",
+      "Low temperature and high salt",
+      "Room temp, no salt",
+      "Any condition works for SNPs",
+      "Denaturation not required"
+    ],
+    "answer": 0,
+    "explanation": "Higher stringency is needed to distinguish a single mismatch."
+  },
+  {
+    "id": 20008,
+    "topicId": "hybridization",
+    "stem": "Essential probe property for membrane hybridization:",
+    "choices": [
+      "Complementarity to the target sequence",
+      "Covalent linkage to ligase",
+      "3\u2032-OH blocked",
+      "Ribose instead of deoxyribose always required",
+      "Incorporation into nucleosomes"
+    ],
+    "answer": 0,
+    "explanation": "Hybridization depends on base complementarity."
+  },
+  {
+    "id": 20009,
+    "topicId": "hybridization",
+    "stem": "Raising stringency during washes primarily disrupts:",
+    "choices": [
+      "H-bonding in imperfectly matched duplexes",
+      "Covalent sugar\u2013phosphate bonds",
+      "Backbone hydrolysis",
+      "UV-mediated crosslinks",
+      "Template-directed synthesis"
+    ],
+    "answer": 0,
+    "explanation": "Higher temp/low salt destabilizes mismatches."
+  },
+  {
+    "id": 20010,
+    "topicId": "hybridization",
+    "stem": "Signal at 50\u00b0C in 1\u00d7SSC but not at 65\u00b0C in 0.1\u00d7SSC implies:",
+    "choices": [
+      "Probe\u2013target have mismatches (partial homology)",
+      "Target absent",
+      "Probe is RNA so cannot bind DNA",
+      "High salt prevents duplex formation",
+      "Probe anneals only at very high temperature"
+    ],
+    "answer": 0,
+    "explanation": "Loss of signal with higher stringency means imperfect complementarity."
+  },
+  {
+    "id": 20011,
+    "topicId": "prokDNA",
+    "stem": "Primary function of bacterial DNA gyrase is to:",
+    "choices": [
+      "Introduce negative supercoils using ATP",
+      "Ligate Okazaki fragments",
+      "Remove RNA primers",
+      "Stabilize nucleosomes",
+      "Add telomeres"
+    ],
+    "answer": 0,
+    "explanation": "Gyrase (Topo II) introduces negative supercoils in bacteria."
+  },
+  {
+    "id": 20012,
+    "topicId": "prokDNA",
+    "stem": "Ciprofloxacin kills bacteria by:",
+    "choices": [
+      "Trapping gyrase Topo II cleavage complexes causing lethal DSBs",
+      "Inhibiting DNA Pol III proofreading",
+      "Intercalating DNA to raise Tm",
+      "Blocking primase on the leading strand",
+      "Inhibiting RNase H"
+    ],
+    "answer": 0,
+    "explanation": "Fluoroquinolones stabilize gyrase-mediated breaks."
+  },
+  {
+    "id": 20013,
+    "topicId": "prokDNA",
+    "stem": "Bacterial chromosomes are typically:",
+    "choices": [
+      "Covalently closed circular and not nucleosomal",
+      "Linear with telomeres",
+      "Circular with H1 nucleosomes",
+      "Linear with centromeres",
+      "Single stranded"
+    ],
+    "answer": 0,
+    "explanation": "Most bacteria have circular, negatively supercoiled DNA lacking histones."
+  },
+  {
+    "id": 20014,
+    "topicId": "prokDNA",
+    "stem": "Novobiocin interferes with gyrase by inhibiting:",
+    "choices": [
+      "ATPase activity required for resealing",
+      "Origin recognition",
+      "Helicase strand separation",
+      "RNA primer removal",
+      "Clamp loading"
+    ],
+    "answer": 0,
+    "explanation": "Coumarins target the ATPase of gyrase."
+  },
+  {
+    "id": 20015,
+    "topicId": "prokDNA",
+    "stem": "Why is negative supercoiling important during replication?",
+    "choices": [
+      "Relieves positive supercoils ahead of forks",
+      "Synthesizes RNA primers",
+      "Prevents origin melting",
+      "Eliminates helicase need",
+      "Creates telomeres"
+    ],
+    "answer": 0,
+    "explanation": "Helicase generates positive supercoils; gyrase relieves them."
+  },
+  {
+    "id": 20016,
+    "topicId": "eukDNA",
+    "stem": "Which distinguishes nuclear from mitochondrial DNA?",
+    "choices": [
+      "Nuclear DNA is linear with telomeres; mtDNA is circular",
+      "Both circular",
+      "Both linear with telomeres",
+      "Only mtDNA has introns",
+      "Nuclear DNA lacks exons"
+    ],
+    "answer": 0,
+    "explanation": "Nuclear DNA is linear; mtDNA resembles bacterial circular DNA."
+  },
+  {
+    "id": 20017,
+    "topicId": "eukDNA",
+    "stem": "Introns during mRNA maturation are:",
+    "choices": [
+      "Removed by splicing; exons ligated",
+      "Translated into signal peptides",
+      "Converted to poly(A)",
+      "Exported as ncRNAs",
+      "Retained in mitochondria only"
+    ],
+    "answer": 0,
+    "explanation": "Pre-mRNA splicing removes introns."
+  },
+  {
+    "id": 20018,
+    "topicId": "eukDNA",
+    "stem": "True statement about telomeres:",
+    "choices": [
+      "Tandem repeats with a 3\u2032 overhang maintained by telomerase",
+      "Seal circular chromosomes",
+      "Synthesized by Pol \u03b2",
+      "Absent in germline",
+      "Protein-only"
+    ],
+    "answer": 0,
+    "explanation": "Telomeres are DNA repeats; telomerase maintains them."
+  },
+  {
+    "id": 20019,
+    "topicId": "eukDNA",
+    "stem": "Introns enable:",
+    "choices": [
+      "Alternative splicing and proteomic diversity",
+      "Polycistronic mRNAs",
+      "Replication without primers",
+      "Cytoplasmic transcription",
+      "Cap-independent translation only"
+    ],
+    "answer": 0,
+    "explanation": "Alternative splicing increases diversity."
+  },
+  {
+    "id": 20020,
+    "topicId": "eukDNA",
+    "stem": "Loss of telomerase activity leads to:",
+    "choices": [
+      "Progressive telomere shortening and senescence",
+      "Immediate death from origin loss",
+      "Telomere lengthening",
+      "Chromosome circularization",
+      "Increased mtDNA copies only"
+    ],
+    "answer": 0,
+    "explanation": "Without telomerase, telomeres shorten with divisions \u2192 senescence."
+  },
+  {
+    "id": 20021,
+    "topicId": "repeats",
+    "stem": "Microsatellites are:",
+    "choices": [
+      "2\u20136 bp tandem repeats",
+      "10\u2013100 bp tandem repeats",
+      "LINEs (~6 kb)",
+      "Unique single-copy DNA",
+      "Alpha-satellite only"
+    ],
+    "answer": 0,
+    "explanation": "Microsatellites = short tandem repeats (STRs)."
+  },
+  {
+    "id": 20022,
+    "topicId": "repeats",
+    "stem": "VNTR minisatellites are useful in forensics because:",
+    "choices": [
+      "Repeat number varies among individuals",
+      "They encode housekeeping proteins",
+      "Copied only in meiosis",
+      "Always exonic",
+      "Mitochondrial"
+    ],
+    "answer": 0,
+    "explanation": "VNTRs vary in copy number, enabling identity testing."
+  },
+  {
+    "id": 20023,
+    "topicId": "repeats",
+    "stem": "LINEs and SINEs are:",
+    "choices": [
+      "Interspersed repeats often derived from transposons",
+      "Only centromeric repeats",
+      "Unique coding genes",
+      "rDNA arrays exclusively",
+      "Microsatellite repeats"
+    ],
+    "answer": 0,
+    "explanation": "LINE-1 (~6 kb) and Alu (~300 nt) are interspersed repeats."
+  },
+  {
+    "id": 20024,
+    "topicId": "repeats",
+    "stem": "Disease classically linked to repeat expansion:",
+    "choices": [
+      "Trinucleotide repeat expansion (e.g., CAG)",
+      "Dinucleotide repeats only",
+      "Telomeric repeats",
+      "LINE-1 insertion only",
+      "rDNA expansion"
+    ],
+    "answer": 0,
+    "explanation": "Triplet-repeat expansion causes disorders like Huntington disease."
+  },
+  {
+    "id": 20025,
+    "topicId": "repeats",
+    "stem": "Highly repetitive DNA enriched at:",
+    "choices": [
+      "Centromeres and telomeres",
+      "Origins only",
+      "Promoters",
+      "All introns",
+      "Mitochondria"
+    ],
+    "answer": 0,
+    "explanation": "Telomeres and centromeres contain abundant tandem repeats."
+  },
+  {
+    "id": 20026,
+    "topicId": "chromatin",
+    "stem": "Which best describes nucleosome structure?",
+    "choices": [
+      "~147 bp of DNA wrapped around a histone octamer (H2A, H2B, H3, H4)\u00d72",
+      "DNA wrapped around H1 tetramer",
+      "30-bp DNA around H3 dimer",
+      "RNA wrapped around histones",
+      "No protein component"
+    ],
+    "answer": 0,
+    "explanation": "Core histone octamer binds ~147 bp; H1 is linker histone."
+  },
+  {
+    "id": 20027,
+    "topicId": "chromatin",
+    "stem": "Histone H1 role:",
+    "choices": [
+      "Stabilizes higher-order chromatin fibers by binding linker DNA",
+      "Catalyzes acetylation of H3",
+      "Repairs DNA nicks",
+      "Unwinds DNA at origins",
+      "Transcribes rRNA"
+    ],
+    "answer": 0,
+    "explanation": "H1 helps pack nucleosomes into higher-order structures."
+  },
+  {
+    "id": 20028,
+    "topicId": "chromatin",
+    "stem": "Euchromatin is typically:",
+    "choices": [
+      "Transcriptionally active and lightly stained",
+      "Silenced and condensed",
+      "Mitochondrial DNA",
+      "Centromeric only",
+      "Replicates late exclusively"
+    ],
+    "answer": 0,
+    "explanation": "Euchromatin is open and active; heterochromatin is condensed."
+  },
+  {
+    "id": 20029,
+    "topicId": "chromatin",
+    "stem": "A drug that increases histone acetylation would most likely:",
+    "choices": [
+      "Increase gene transcription by opening chromatin",
+      "Decrease transcription by condensing chromatin",
+      "Break phosphodiester bonds",
+      "Block DNA replication origins",
+      "Cause depurination"
+    ],
+    "answer": 0,
+    "explanation": "Acetylation neutralizes lysine positive charges \u2192 open chromatin."
+  },
+  {
+    "id": 20030,
+    "topicId": "chromatin",
+    "stem": "Which mark correlates with repressed chromatin?",
+    "choices": [
+      "DNA methylation at CpG islands",
+      "H3 acetylation",
+      "H3K4me3 at promoters",
+      "RNAP II Ser2 phosphorylation",
+      "Topoisomerase I activity"
+    ],
+    "answer": 0,
+    "explanation": "DNA methylation silences promoters; histone acetylation generally activates."
+  },
+  {
+    "id": 20031,
+    "topicId": "epigenetics",
+    "stem": "DNA methylation in promoters generally:",
+    "choices": [
+      "Silences gene expression",
+      "Activates gene expression",
+      "Triggers RNA editing",
+      "Creates AP sites",
+      "Induces meiotic recombination"
+    ],
+    "answer": 0,
+    "explanation": "Methylated CpG islands recruit repressors and compact chromatin."
+  },
+  {
+    "id": 20032,
+    "topicId": "epigenetics",
+    "stem": "Histone deacetylases (HDACs) typically:",
+    "choices": [
+      "Condense chromatin and repress transcription",
+      "Open chromatin and activate transcription",
+      "Remove methyl groups from DNA",
+      "Promote ribosome assembly",
+      "Trigger apoptosis via cytochrome c"
+    ],
+    "answer": 0,
+    "explanation": "Deacetylation restores positive charge on lysines \u2192 tighter DNA binding."
+  },
+  {
+    "id": 20033,
+    "topicId": "epigenetics",
+    "stem": "Imprinting disorders often involve:",
+    "choices": [
+      "Aberrant DNA methylation patterns of maternal/paternal alleles",
+      "Mitochondrial genome deletions only",
+      "Triplet repeat expansions exclusively",
+      "Viral integration",
+      "Peroxisomal dysfunction"
+    ],
+    "answer": 0,
+    "explanation": "Parent-of-origin\u2013specific methylation marks determine expression."
+  },
+  {
+    "id": 20034,
+    "topicId": "epigenetics",
+    "stem": "A reader domain that binds acetyl-lysine and recruits coactivators is the:",
+    "choices": [
+      "Bromodomain",
+      "SH2 domain",
+      "Chromodomain",
+      "RRM",
+      "Kinase domain"
+    ],
+    "answer": 0,
+    "explanation": "Bromodomains recognize acetylated histones; chromodomains often bind methyl marks."
+  },
+  {
+    "id": 20035,
+    "topicId": "epigenetics",
+    "stem": "Treatment with 5-azacytidine acts primarily by:",
+    "choices": [
+      "Inhibiting DNA methyltransferases leading to hypomethylation",
+      "Inhibiting histone acetyltransferases",
+      "Blocking RNAP II",
+      "Cleaving telomeres",
+      "Inhibiting topoisomerase I"
+    ],
+    "answer": 0,
+    "explanation": "Nucleoside analog traps DNMTs, reducing methylation and reactivating genes."
+  },
+  {
+    "id": 20036,
+    "topicId": "rna-structure",
+    "stem": "Which feature is unique to RNA vs DNA?",
+    "choices": [
+      "2\u2032-OH on ribose enabling intramolecular base pairing",
+      "Thymine base",
+      "Stable B-form duplex under physiological salt only",
+      "Lack of base pairing",
+      "Deoxyribose in backbone"
+    ],
+    "answer": 0,
+    "explanation": "The 2\u2032-OH allows RNA to form diverse secondary structures and catalysis."
+  },
+  {
+    "id": 20037,
+    "topicId": "rna-structure",
+    "stem": "Which RNA structure motif is common in tRNAs?",
+    "choices": [
+      "Cloverleaf with acceptor stem, D-loop, anticodon loop, T\u03c8C loop",
+      "Quadruplex G4 exclusively",
+      "Z-RNA",
+      "Triple helix",
+      "Ribozyme only"
+    ],
+    "answer": 0,
+    "explanation": "tRNA has conserved cloverleaf secondary structure."
+  },
+  {
+    "id": 20038,
+    "topicId": "rna-structure",
+    "stem": "Base pairing in RNA often includes:",
+    "choices": [
+      "Non-Watson\u2013Crick interactions (e.g., GU wobble)",
+      "Only canonical GC and AU pairs",
+      "No hydrogen bonding",
+      "Thymine\u2013adenine only",
+      "C\u2013I pairs only"
+    ],
+    "answer": 0,
+    "explanation": "RNA permits GU wobble and tertiary contacts."
+  },
+  {
+    "id": 20039,
+    "topicId": "rna-structure",
+    "stem": "Alkaline hydrolysis cleaves RNA more readily than DNA because:",
+    "choices": [
+      "2\u2032-OH acts as a nucleophile",
+      "RNA lacks bases",
+      "RNA lacks phosphates",
+      "DNA has more phosphate groups",
+      "RNA has uracil instead of thymine"
+    ],
+    "answer": 0,
+    "explanation": "2\u2032-OH facilitates backbone cleavage under basic conditions."
+  },
+  {
+    "id": 20040,
+    "topicId": "rna-structure",
+    "stem": "A self-splicing intron is an example of a:",
+    "choices": [
+      "Ribozyme",
+      "Proteasome",
+      "Helicase",
+      "Topoisomerase",
+      "Polymerase"
+    ],
+    "answer": 0,
+    "explanation": "Some RNAs have catalytic activity (ribozymes)."
+  },
+  {
+    "id": 20041,
+    "topicId": "rna-types",
+    "stem": "RNA polymerase I transcribes primarily:",
+    "choices": [
+      "rRNA (28S, 18S, 5.8S) in nucleolus",
+      "mRNA precursors",
+      "tRNA only",
+      "snRNA only",
+      "miRNA only"
+    ],
+    "answer": 0,
+    "explanation": "Pol I synthesizes large rRNAs in the nucleolus."
+  },
+  {
+    "id": 20042,
+    "topicId": "rna-types",
+    "stem": "RNA polymerase II product is:",
+    "choices": [
+      "mRNA (plus some snRNA, miRNA)",
+      "5S rRNA only",
+      "tRNA only",
+      "rRNA 28S only",
+      "rRNA 18S only"
+    ],
+    "answer": 0,
+    "explanation": "Pol II makes mRNA; Pol III makes tRNA and 5S rRNA."
+  },
+  {
+    "id": 20043,
+    "topicId": "rna-types",
+    "stem": "Which RNA is adapter linking codons to amino acids?",
+    "choices": [
+      "tRNA",
+      "mRNA",
+      "rRNA",
+      "snRNA",
+      "snoRNA"
+    ],
+    "answer": 0,
+    "explanation": "tRNA carries amino acids to ribosome and decodes mRNA."
+  },
+  {
+    "id": 20044,
+    "topicId": "rna-types",
+    "stem": "snoRNAs are primarily involved in:",
+    "choices": [
+      "rRNA modification and processing in nucleolus",
+      "Splicing in spliceosome",
+      "RNA interference",
+      "Translation elongation",
+      "Telomere synthesis"
+    ],
+    "answer": 0,
+    "explanation": "Small nucleolar RNAs guide rRNA modification."
+  },
+  {
+    "id": 20045,
+    "topicId": "rna-types",
+    "stem": "A hallmark of eukaryotic mRNA maturation is:",
+    "choices": [
+      "5\u2032 cap addition and 3\u2032 polyadenylation",
+      "Polycistronic organization",
+      "IRES exclusive translation",
+      "No splicing in nucleus",
+      "3\u2032 capping"
+    ],
+    "answer": 0,
+    "explanation": "Euk mRNAs are capped and polyadenylated."
+  },
+  {
+    "id": 20046,
+    "topicId": "regRNAs",
+    "stem": "miRNAs usually regulate gene expression by:",
+    "choices": [
+      "Binding 3\u2032 UTR and promoting mRNA degradation/translation repression via RISC",
+      "Enhancing transcription by binding promoters",
+      "Editing DNA bases",
+      "Stimulating ribosome translocation",
+      "Capping mRNA 5\u2032 ends"
+    ],
+    "answer": 0,
+    "explanation": "miRNA-RISC complexes reduce protein output from target mRNAs."
+  },
+  {
+    "id": 20047,
+    "topicId": "regRNAs",
+    "stem": "siRNA vs miRNA key difference:",
+    "choices": [
+      "siRNA has perfect complementarity; miRNA is often imperfect",
+      "miRNA has perfect complementarity only",
+      "Both require DDX helicases exclusively",
+      "Only siRNA uses Dicer",
+      "Only miRNA uses Argonaute"
+    ],
+    "answer": 0,
+    "explanation": "siRNAs typically align perfectly with targets; miRNAs bind partially."
+  },
+  {
+    "id": 20048,
+    "topicId": "regRNAs",
+    "stem": "lncRNAs can:",
+    "choices": [
+      "Act as scaffolds/decoys to modulate transcription or chromatin",
+      "Encode small peptides always",
+      "Serve as tRNA precursors only",
+      "Form ribosomes",
+      "Replace rRNA"
+    ],
+    "answer": 0,
+    "explanation": "lncRNAs influence gene regulation via diverse mechanisms."
+  },
+  {
+    "id": 20049,
+    "topicId": "regRNAs",
+    "stem": "piRNAs are most associated with:",
+    "choices": [
+      "Silencing transposons in germ cells",
+      "Ribosome function",
+      "Spliceosome assembly",
+      "Nuclear import",
+      "Mitochondrial translation"
+    ],
+    "answer": 0,
+    "explanation": "piRNA pathway suppresses transposons in germline."
+  },
+  {
+    "id": 20050,
+    "topicId": "regRNAs",
+    "stem": "A common biogenesis step for miRNA includes:",
+    "choices": [
+      "Drosha processing in nucleus then Dicer in cytoplasm",
+      "RISC assembly in nucleus only",
+      "Direct transcription by Pol I",
+      "Splicing by U12-dependent spliceosome",
+      "Incorporation into 60S ribosomal subunit"
+    ],
+    "answer": 0,
+    "explanation": "miRNA hairpins are processed by Drosha/DGCR8 then Dicer."
+  },
+  {
+    "id": 20051,
+    "topicId": "nucleus-envelope",
+    "stem": "Mutation in LMNA gene most likely causes:",
+    "choices": [
+      "Abnormal nuclear lamina with fragile, misshapen nuclei (laminopathy)",
+      "Loss of nuclear pores but intact lamina",
+      "Golgi fragmentation only",
+      "Mitochondrial swelling only",
+      "Centrosome duplication failure only"
+    ],
+    "answer": 0,
+    "explanation": "Lamins A/C mutations disrupt nuclear lamina integrity (e.g., progeria)."
+  },
+  {
+    "id": 20052,
+    "topicId": "nucleus-envelope",
+    "stem": "Classical nuclear import requires:",
+    "choices": [
+      "NLS-bearing cargo, importins, and Ran-GTP gradient",
+      "NES-bearing cargo and Ran-GDP",
+      "COPII vesicles",
+      "SNARE disassembly",
+      "Clathrin adaptors"
+    ],
+    "answer": 0,
+    "explanation": "Importins recognize NLS and traverse nuclear pore using Ran cycle."
+  },
+  {
+    "id": 20053,
+    "topicId": "nucleus-envelope",
+    "stem": "Nuclear pores primarily mediate:",
+    "choices": [
+      "Bidirectional traffic through selective FG-repeat channel",
+      "Protein synthesis",
+      "DNA replication origin firing",
+      "ATP synthesis",
+      "Microtubule nucleation"
+    ],
+    "answer": 0,
+    "explanation": "NPCs are selective gates with FG-nucleoporins."
+  },
+  {
+    "id": 20054,
+    "topicId": "nucleus-envelope",
+    "stem": "During open mitosis the nuclear envelope:",
+    "choices": [
+      "Breaks down due to phosphorylation of lamins",
+      "Remains intact around chromosomes",
+      "Fuses with mitochondria",
+      "Becomes double in thickness",
+      "Converts to rER permanently"
+    ],
+    "answer": 0,
+    "explanation": "CDK-mediated phosphorylation disassembles lamina; envelope reforms in telophase."
+  },
+  {
+    "id": 20055,
+    "topicId": "nucleus-envelope",
+    "stem": "The inner nuclear membrane is continuous with:",
+    "choices": [
+      "Endoplasmic reticulum",
+      "Golgi lumen",
+      "Mitochondrial matrix",
+      "Cytosol only",
+      "Lysosomal lumen"
+    ],
+    "answer": 0,
+    "explanation": "Nuclear envelope is contiguous with rough ER."
+  },
+  {
+    "id": 20056,
+    "topicId": "nucleolus-ribosome",
+    "stem": "Nucleolus is the site of:",
+    "choices": [
+      "rRNA transcription by RNA Pol I and ribosomal assembly",
+      "mRNA splicing by spliceosome",
+      "DNA replication initiation",
+      "tRNA charging",
+      "Peroxisome biogenesis"
+    ],
+    "answer": 0,
+    "explanation": "Nucleolus produces rRNA (except 5S) and assembles ribosomal subunits."
+  },
+  {
+    "id": 20057,
+    "topicId": "nucleolus-ribosome",
+    "stem": "Which change shrinks nucleoli on microscopy?",
+    "choices": [
+      "Inhibiting rRNA transcription",
+      "Inhibiting tRNA aminoacylation",
+      "Increasing polypeptide elongation",
+      "Increasing histone acetylation",
+      "Blocking Ran cycle"
+    ],
+    "answer": 0,
+    "explanation": "Active rRNA synthesis enlarges nucleoli."
+  },
+  {
+    "id": 20058,
+    "topicId": "nucleolus-ribosome",
+    "stem": "Nucleolar organizer regions correspond to:",
+    "choices": [
+      "Chromosomal rDNA repeats that form nucleoli",
+      "Centromeric alpha-satellites",
+      "Telomeric repeats",
+      "Origins of replication",
+      "miRNA clusters"
+    ],
+    "answer": 0,
+    "explanation": "NORs contain rDNA genes hosting Pol I transcription."
+  },
+  {
+    "id": 20059,
+    "topicId": "nucleolus-ribosome",
+    "stem": "5S rRNA is transcribed by:",
+    "choices": [
+      "RNA polymerase III outside the nucleolus",
+      "Pol I in nucleolus",
+      "Pol II exclusively in cytosol",
+      "Mitochondrial polymerase in nucleolus",
+      "Telomerase"
+    ],
+    "answer": 0,
+    "explanation": "Pol III transcribes 5S rRNA in nucleoplasm."
+  },
+  {
+    "id": 20060,
+    "topicId": "nucleolus-ribosome",
+    "stem": "Which factor shuttles rRNA-modifying enzymes in nucleolus?",
+    "choices": [
+      "snoRNPs",
+      "snRNPs",
+      "Ku70/80",
+      "RecA/Rad51",
+      "TFIID"
+    ],
+    "answer": 0,
+    "explanation": "snoRNPs guide rRNA modification."
+  },
+  {
+    "id": 20061,
+    "topicId": "chromatin-architecture",
+    "stem": "Euchromatin vs heterochromatin difference:",
+    "choices": [
+      "Euchromatin is open/active; heterochromatin is condensed/silent",
+      "Both are equally condensed",
+      "Heterochromatin is only at telomeres",
+      "Euchromatin replicates only in late S phase",
+      "Heterochromatin has no histones"
+    ],
+    "answer": 0,
+    "explanation": "Open chromatin correlates with transcription."
+  },
+  {
+    "id": 20062,
+    "topicId": "chromatin-architecture",
+    "stem": "Histone acetyltransferase (HAT) activity:",
+    "choices": [
+      "Neutralizes lysine charges \u2192 open chromatin \u2192 \u2191transcription",
+      "Adds methyl groups to DNA",
+      "Cleaves phosphodiester bonds",
+      "Unwinds DNA at forks",
+      "Triggers apoptosis"
+    ],
+    "answer": 0,
+    "explanation": "Acetylation reduces DNA\u2013histone attraction."
+  },
+  {
+    "id": 20063,
+    "topicId": "chromatin-architecture",
+    "stem": "Which mark is typical of active promoters?",
+    "choices": [
+      "H3K4me3",
+      "H3K9me3",
+      "DNA methylation at CpG",
+      "H3K27me3",
+      "H2A ubiquitination"
+    ],
+    "answer": 0,
+    "explanation": "H3K4me3 is enriched at active promoters (vs H3K27me3 repressive)."
+  },
+  {
+    "id": 20064,
+    "topicId": "chromatin-architecture",
+    "stem": "Boundary elements/insulators often bind:",
+    "choices": [
+      "CTCF to demarcate topological domains",
+      "RecA to promote recombination",
+      "Ku proteins",
+      "RNase H",
+      "Topoisomerase I only"
+    ],
+    "answer": 0,
+    "explanation": "CTCF-bound insulators help organize 3D genome architecture."
+  },
+  {
+    "id": 20065,
+    "topicId": "chromatin-architecture",
+    "stem": "Chromatin loops that bring enhancers to promoters are facilitated by:",
+    "choices": [
+      "Cohesin rings",
+      "Clathrin coats",
+      "Desmosomes",
+      "Integrins",
+      "Ribophorins"
+    ],
+    "answer": 0,
+    "explanation": "Cohesin and CTCF mediate loops controlling gene expression."
+  },
+  {
+    "id": 20066,
+    "topicId": "cell-cycle-checkpoints",
+    "stem": "p53 activation upregulates p21, which:",
+    "choices": [
+      "Inhibits CDK2 \u2192 halts G1\u2192S",
+      "Activates CDK4/6",
+      "Triggers APC/C directly",
+      "Degrades cyclin B",
+      "Phosphorylates Rb to activate E2F"
+    ],
+    "answer": 0,
+    "explanation": "p21 inhibits G1/S CDKs, enforcing a checkpoint."
+  },
+  {
+    "id": 20067,
+    "topicId": "cell-cycle-checkpoints",
+    "stem": "Rb protein in hypophosphorylated state:",
+    "choices": [
+      "Binds E2F to block S-phase entry",
+      "Activates E2F transcription",
+      "Triggers mitotic spindle assembly",
+      "Stabilizes telomeres",
+      "Imports proteins into nucleus"
+    ],
+    "answer": 0,
+    "explanation": "Rb restrains E2F until phosphorylated by CDK4/6-Cyclin D."
+  },
+  {
+    "id": 20068,
+    "topicId": "cell-cycle-checkpoints",
+    "stem": "G2/M checkpoint monitors:",
+    "choices": [
+      "Completion of DNA replication and DNA damage",
+      "Spindle attachment",
+      "Telomere length",
+      "Golgi duplication",
+      "Mitochondrial fission"
+    ],
+    "answer": 0,
+    "explanation": "Cells delay mitosis until replication is complete and damage is repaired."
+  },
+  {
+    "id": 20069,
+    "topicId": "cell-cycle-checkpoints",
+    "stem": "APC/C activation promotes:",
+    "choices": [
+      "Anaphase onset by degrading securin/cyclin",
+      "DNA replication initiation",
+      "Cohesin loading",
+      "NHEJ repair",
+      "Transcription initiation"
+    ],
+    "answer": 0,
+    "explanation": "APC/C triggers separase and mitotic exit."
+  },
+  {
+    "id": 20070,
+    "topicId": "cell-cycle-checkpoints",
+    "stem": "Cyclin D partners primarily with:",
+    "choices": [
+      "CDK4/6 during G1",
+      "CDK1 during mitosis",
+      "CDK2 during S phase",
+      "CDK7 as CAK during M",
+      "CDK5 in neurons for replication"
+    ],
+    "answer": 0,
+    "explanation": "Cyclin D\u2013CDK4/6 phosphorylates Rb during G1."
+  },
+  {
+    "id": 20071,
+    "topicId": "replication-enzymes",
+    "stem": "Which bacterial enzyme removes Okazaki RNA primers?",
+    "choices": [
+      "DNA polymerase I (5\u2032\u21923\u2032 exonuclease)",
+      "DNA polymerase III",
+      "Topoisomerase I",
+      "Ligase",
+      "Primase"
+    ],
+    "answer": 0,
+    "explanation": "Pol I excises primers and fills the gap."
+  },
+  {
+    "id": 20072,
+    "topicId": "replication-enzymes",
+    "stem": "Eukaryotic leading-strand polymerase:",
+    "choices": [
+      "DNA polymerase \u03b5",
+      "DNA polymerase \u03b4",
+      "DNA polymerase \u03b1",
+      "DNA polymerase \u03b2",
+      "DNA polymerase \u03b3"
+    ],
+    "answer": 0,
+    "explanation": "Pol \u03b5 mainly leading; \u03b4 lagging; \u03b1 makes primers."
+  },
+  {
+    "id": 20073,
+    "topicId": "replication-enzymes",
+    "stem": "PCNA is analogous to bacterial:",
+    "choices": [
+      "\u03b2 sliding clamp",
+      "\u03c3 factor",
+      "\u03c1 factor",
+      "Tus protein",
+      "DnaA"
+    ],
+    "answer": 0,
+    "explanation": "PCNA is the processivity clamp."
+  },
+  {
+    "id": 20074,
+    "topicId": "replication-enzymes",
+    "stem": "Most chain-terminating nucleosides lack:",
+    "choices": [
+      "3\u2032-OH group",
+      "5\u2032 phosphate",
+      "Base exocyclic amine",
+      "2\u2032-H",
+      "Deoxyribose"
+    ],
+    "answer": 0,
+    "explanation": "Without 3\u2032-OH elongation stops."
+  },
+  {
+    "id": 20075,
+    "topicId": "replication-enzymes",
+    "stem": "Highest ATP consumption in replication:",
+    "choices": [
+      "Helicase unwinding",
+      "Polymerase bond formation",
+      "Ligase nick sealing",
+      "Clamp loading",
+      "RNase H activity"
+    ],
+    "answer": 0,
+    "explanation": "Helicases hydrolyze ATP to unwind DNA."
+  },
+  {
+    "id": 20076,
+    "topicId": "leading-lagging",
+    "stem": "Why are Okazaki fragments necessary on lagging strand?",
+    "choices": [
+      "Polymerases synthesize 5\u2032\u21923\u2032; opposite fork direction requires discontinuous synthesis",
+      "Helicase moves 3\u2032\u21925\u2032 only",
+      "Ligase cannot join DNA",
+      "Primase acts only once",
+      "Topoisomerase dictates fragments"
+    ],
+    "answer": 0,
+    "explanation": "Lagging strand synthesizes away from fork movement, in fragments."
+  },
+  {
+    "id": 20077,
+    "topicId": "leading-lagging",
+    "stem": "Which enzyme joins Okazaki fragments after primer removal?",
+    "choices": [
+      "DNA ligase",
+      "Topoisomerase I",
+      "Primase",
+      "RNase P",
+      "Gyrase"
+    ],
+    "answer": 0,
+    "explanation": "Ligase seals nicks with phosphodiester bonds."
+  },
+  {
+    "id": 20078,
+    "topicId": "leading-lagging",
+    "stem": "Primase synthesizes:",
+    "choices": [
+      "Short RNA primers",
+      "DNA primers",
+      "Okazaki fragments",
+      "Lagging-strand clamp",
+      "Telomeric repeats"
+    ],
+    "answer": 0,
+    "explanation": "Primase produces RNA primers for DNA polymerases."
+  },
+  {
+    "id": 20079,
+    "topicId": "leading-lagging",
+    "stem": "Proofreading activity of DNA Pol III:",
+    "choices": [
+      "3\u2032\u21925\u2032 exonuclease removes misincorporated bases",
+      "5\u2032\u21923\u2032 exonuclease removes primers",
+      "Endonuclease creates nicks",
+      "Ligase fills gaps",
+      "RNase H edits bases"
+    ],
+    "answer": 0,
+    "explanation": "Pol III proofreads via 3\u2032\u21925\u2032 exonuclease."
+  },
+  {
+    "id": 20080,
+    "topicId": "leading-lagging",
+    "stem": "Which factor increases processivity of polymerase?",
+    "choices": [
+      "Sliding clamp",
+      "Topoisomerase",
+      "Helicase",
+      "Primase",
+      "Ligase"
+    ],
+    "answer": 0,
+    "explanation": "\u03b2 clamp/PCNA holds polymerase on DNA to prevent dissociation."
+  },
+  {
+    "id": 20081,
+    "topicId": "mismatch-repair",
+    "stem": "Mismatch repair primarily fixes:",
+    "choices": [
+      "Base\u2013base mismatches and small insertion\u2013deletion loops",
+      "Double-strand breaks",
+      "Pyrimidine dimers",
+      "Abasic sites only",
+      "Crosslinks only"
+    ],
+    "answer": 0,
+    "explanation": "MMR corrects replication errors missed by proofreading."
+  },
+  {
+    "id": 20082,
+    "topicId": "mismatch-repair",
+    "stem": "Hereditary nonpolyposis colorectal cancer (Lynch) is due to germline defects in:",
+    "choices": [
+      "MMR genes (e.g., MLH1, MSH2)",
+      "Nucleotide excision repair (NER)",
+      "Base excision repair (BER)",
+      "Non-homologous end joining",
+      "HR genes only"
+    ],
+    "answer": 0,
+    "explanation": "Loss of MMR increases microsatellite instability and cancer risk."
+  },
+  {
+    "id": 20083,
+    "topicId": "mismatch-repair",
+    "stem": "Strand discrimination during MMR in bacteria often uses:",
+    "choices": [
+      "Transient hemimethylation of GATC sites",
+      "Okazaki fragment presence",
+      "H3K9 methylation",
+      "Telomere length",
+      "Centromere binding"
+    ],
+    "answer": 0,
+    "explanation": "MutH recognizes unmethylated daughter strand at GATC."
+  },
+  {
+    "id": 20084,
+    "topicId": "mismatch-repair",
+    "stem": "Defect in MMR increases risk for mutations particularly at:",
+    "choices": [
+      "Microsatellite repeats (MSI)",
+      "rDNA repeats",
+      "Telomeres",
+      "Mitochondrial DNA only",
+      "Promoter CpG islands only"
+    ],
+    "answer": 0,
+    "explanation": "MMR defects cause MSI-high phenotype."
+  },
+  {
+    "id": 20085,
+    "topicId": "mismatch-repair",
+    "stem": "Eukaryotic MMR uses homologs of:",
+    "choices": [
+      "MutS/MutL to recognize and repair mismatches",
+      "MutH for hemimethylation",
+      "UvrABC excinuclease",
+      "Ku70/80",
+      "Spo11"
+    ],
+    "answer": 0,
+    "explanation": "MSH/MLH homologs coordinate eukaryotic MMR."
+  },
+  {
+    "id": 20086,
+    "topicId": "nucleotide-excision",
+    "stem": "NER primarily removes:",
+    "choices": [
+      "Bulky, helix-distorting lesions (e.g., thymine dimers)",
+      "Single oxidized bases only",
+      "Double-strand breaks",
+      "Ribose dehydration products",
+      "AP sites only"
+    ],
+    "answer": 0,
+    "explanation": "NER excises oligonucleotide patches to remove bulky adducts/dimers."
+  },
+  {
+    "id": 20087,
+    "topicId": "nucleotide-excision",
+    "stem": "Defect in NER causes:",
+    "choices": [
+      "Xeroderma pigmentosum with UV sensitivity and skin cancers",
+      "Ataxia telangiectasia",
+      "Bloom syndrome",
+      "Lynch syndrome",
+      "Fanconi anemia only"
+    ],
+    "answer": 0,
+    "explanation": "XP results from NER gene mutations; UV damage accumulates."
+  },
+  {
+    "id": 20088,
+    "topicId": "nucleotide-excision",
+    "stem": "BER primarily corrects:",
+    "choices": [
+      "Non-bulky lesions like deaminations and oxidations",
+      "Pyrimidine dimers",
+      "Double-strand breaks",
+      "Crosslinks only",
+      "Interstrand crosslinks"
+    ],
+    "answer": 0,
+    "explanation": "BER uses glycosylases/AP endonuclease to replace single bases."
+  },
+  {
+    "id": 20089,
+    "topicId": "nucleotide-excision",
+    "stem": "Global genomic NER vs transcription-coupled NER differ in:",
+    "choices": [
+      "Damage recognition factors (XPC vs stalled RNAP II/CSA/CSB)",
+      "Type of polymerase used",
+      "Nature of excised bases",
+      "Presence of ligase",
+      "ATP usage"
+    ],
+    "answer": 0,
+    "explanation": "Different recognition; downstream excision/resynthesis overlap."
+  },
+  {
+    "id": 20090,
+    "topicId": "nucleotide-excision",
+    "stem": "UV-C exposure most increases which lesions?",
+    "choices": [
+      "Cyclobutane pyrimidine dimers",
+      "8-oxoG",
+      "AP sites",
+      "DSBs",
+      "Interstrand crosslinks"
+    ],
+    "answer": 0,
+    "explanation": "UV causes thymine dimers repaired by NER."
+  },
+  {
+    "id": 20091,
+    "topicId": "dsb-repair",
+    "stem": "NHEJ features include:",
+    "choices": [
+      "Template-independent ligation with small insertions/deletions",
+      "Use of sister chromatid template",
+      "Requirement for 100-bp homology",
+      "Restriction to S/G2 only",
+      "Holliday junction intermediates"
+    ],
+    "answer": 0,
+    "explanation": "NHEJ is fast but error-prone."
+  },
+  {
+    "id": 20092,
+    "topicId": "dsb-repair",
+    "stem": "HR repair:",
+    "choices": [
+      "Accurate repair using homologous template in S/G2",
+      "Always error-prone",
+      "Independent of resection",
+      "Cannot repair replication breaks",
+      "Occurs only in G1"
+    ],
+    "answer": 0,
+    "explanation": "HR uses resected ends and sister chromatids."
+  },
+  {
+    "id": 20093,
+    "topicId": "dsb-repair",
+    "stem": "Topo II poisons (etoposide) kill by:",
+    "choices": [
+      "Stabilizing DSBs that overwhelm repair",
+      "Blocking mismatch repair",
+      "Inhibiting telomerase only",
+      "Preventing origin licensing",
+      "Removing RNA primers"
+    ],
+    "answer": 0,
+    "explanation": "Etoposide traps Topo II cleavage complexes."
+  },
+  {
+    "id": 20094,
+    "topicId": "dsb-repair",
+    "stem": "Meiotic DSBs are introduced by:",
+    "choices": [
+      "Spo11",
+      "Ku70",
+      "RecBCD only",
+      "XRCC4-Ligase IV",
+      "Telomerase"
+    ],
+    "answer": 0,
+    "explanation": "Spo11 initiates meiotic recombination."
+  },
+  {
+    "id": 20095,
+    "topicId": "dsb-repair",
+    "stem": "BRCA1/2-deficient tumors are sensitive to:",
+    "choices": [
+      "PARP inhibitors (synthetic lethality)",
+      "Macrolides",
+      "Microtubule stabilizers only",
+      "RNAP inhibitors",
+      "DNase I"
+    ],
+    "answer": 0,
+    "explanation": "HR deficiency makes cells reliant on BER; PARP inhibition is lethal."
+  },
+  {
+    "id": 20096,
+    "topicId": "homologous-recombination",
+    "stem": "Homologous recombination requires:",
+    "choices": [
+      "Extensive sequence homology and strand invasion by Rad51/RecA",
+      "Ku70/80 binding to ends",
+      "XRCC4-Ligase IV only",
+      "Spo11 in mitotic cells",
+      "No template"
+    ],
+    "answer": 0,
+    "explanation": "HR uses homologous template and recombinases."
+  },
+  {
+    "id": 20097,
+    "topicId": "homologous-recombination",
+    "stem": "Holliday junction resolution can lead to:",
+    "choices": [
+      "Crossover or non-crossover products",
+      "Only crossovers",
+      "Only non-crossovers",
+      "Always gene conversion",
+      "No DNA synthesis"
+    ],
+    "answer": 0,
+    "explanation": "Resolution orientation determines outcome."
+  },
+  {
+    "id": 20098,
+    "topicId": "homologous-recombination",
+    "stem": "During S/G2, HR uses which template most often?",
+    "choices": [
+      "Sister chromatid",
+      "Homologous chromosome in another cell",
+      "Mitochondrial DNA",
+      "rDNA repeats",
+      "No template"
+    ],
+    "answer": 0,
+    "explanation": "Sister chromatids are available and identical."
+  },
+  {
+    "id": 20099,
+    "topicId": "homologous-recombination",
+    "stem": "Gene conversion may result from:",
+    "choices": [
+      "Mismatch repair of heteroduplex DNA",
+      "Ligase IV joining",
+      "Base excision only",
+      "Operon polarity",
+      "Topoisomerase I activity"
+    ],
+    "answer": 0,
+    "explanation": "Heteroduplex mismatch repair can bias alleles \u2192 conversion."
+  },
+  {
+    "id": 20100,
+    "topicId": "homologous-recombination",
+    "stem": "BRCA2 directly facilitates:",
+    "choices": [
+      "Rad51 loading onto ssDNA",
+      "Ku70 binding",
+      "Endonucleolytic clipping by XPF-ERCC1",
+      "AP endonuclease step",
+      "RPA phosphorylation"
+    ],
+    "answer": 0,
+    "explanation": "BRCA2 helps load Rad51 for strand invasion."
+  },
+  {
+    "id": 20101,
+    "topicId": "nhej",
+    "stem": "Key DNA end-binding factor in NHEJ:",
+    "choices": [
+      "Ku70/Ku80",
+      "Rad51",
+      "BRCA1",
+      "PCNA",
+      "RuvC"
+    ],
+    "answer": 0,
+    "explanation": "Ku heterodimer recruits DNA-PKcs for NHEJ."
+  },
+  {
+    "id": 20102,
+    "topicId": "nhej",
+    "stem": "DNA-PKcs primarily functions to:",
+    "choices": [
+      "Activate end processing/ligase machinery in NHEJ",
+      "Load sliding clamp",
+      "Unwind DNA at forks",
+      "Transcribe rRNA",
+      "Initiate translation"
+    ],
+    "answer": 0,
+    "explanation": "DNA-PKcs coordinates NHEJ end processing."
+  },
+  {
+    "id": 20103,
+    "topicId": "nhej",
+    "stem": "Which phase most favors NHEJ over HR?",
+    "choices": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase exclusively",
+      "S/G2 only"
+    ],
+    "answer": 0,
+    "explanation": "HR needs sister chromatids (S/G2); G1 relies on NHEJ."
+  },
+  {
+    "id": 20104,
+    "topicId": "nhej",
+    "stem": "Artemis nuclease is involved in:",
+    "choices": [
+      "Processing DNA ends for NHEJ",
+      "Resolving Holliday junctions",
+      "Capping mRNA",
+      "Splicing",
+      "Base flipping in glycosylases"
+    ],
+    "answer": 0,
+    "explanation": "Artemis trims incompatible ends."
+  },
+  {
+    "id": 20105,
+    "topicId": "nhej",
+    "stem": "V(D)J recombination uses a specialized:",
+    "choices": [
+      "NHEJ pathway after RAG1/2 cleavage",
+      "HR pathway",
+      "NER pathway",
+      "BER pathway",
+      "Mismatch repair only"
+    ],
+    "answer": 0,
+    "explanation": "Lymphocyte antigen receptor assembly employs NHEJ machinery."
+  },
+  {
+    "id": 20106,
+    "topicId": "site-specific",
+    "stem": "Site-specific recombination uses:",
+    "choices": [
+      "Dedicated recombinases recognizing short specific sequences",
+      "Rad51 strand invasion",
+      "Ku70/80",
+      "DNA Pol I nick translation",
+      "Telomerase"
+    ],
+    "answer": 0,
+    "explanation": "Integrases/recombinases mediate sequence-specific recombination."
+  },
+  {
+    "id": 20107,
+    "topicId": "site-specific",
+    "stem": "Phage \u03bb integration into E. coli is an example of:",
+    "choices": [
+      "Site-specific recombination",
+      "Generalized transduction",
+      "Homologous recombination only",
+      "Transformation",
+      "NHEJ"
+    ],
+    "answer": 0,
+    "explanation": "\u03bb integrase catalyzes site-specific recombination at att sites."
+  },
+  {
+    "id": 20108,
+    "topicId": "site-specific",
+    "stem": "Cre recombinase recognizes:",
+    "choices": [
+      "loxP sites",
+      "attB only",
+      "Shine-Dalgarno",
+      "oriC",
+      "Ter sites"
+    ],
+    "answer": 0,
+    "explanation": "Cre-loxP is a classic site-specific system."
+  },
+  {
+    "id": 20109,
+    "topicId": "site-specific",
+    "stem": "V(D)J recombination signal sequences (RSS) are bound by:",
+    "choices": [
+      "RAG1/2 to generate DSBs",
+      "RecA",
+      "Topoisomerase I",
+      "XPA",
+      "Tus"
+    ],
+    "answer": 0,
+    "explanation": "RAG1/2 recognize RSS motifs and cleave DNA."
+  },
+  {
+    "id": 20110,
+    "topicId": "site-specific",
+    "stem": "An inversion event via site-specific recombination occurs when:",
+    "choices": [
+      "Two recombination sites are in opposite orientation",
+      "Sites are in same orientation",
+      "No recombinase present",
+      "Ends are ragged",
+      "Ku binding occurs"
+    ],
+    "answer": 0,
+    "explanation": "Orientation dictates recombination outcome (excision vs inversion)."
+  },
+  {
+    "id": 20111,
+    "topicId": "transposition",
+    "stem": "LINE-1 elements transpose by:",
+    "choices": [
+      "Copy-and-paste via an RNA intermediate (retrotransposition)",
+      "Cut-and-paste DNA excision",
+      "Site-specific recombination",
+      "HR only",
+      "NHEJ only"
+    ],
+    "answer": 0,
+    "explanation": "LINE-1 is an autonomous retrotransposon."
+  },
+  {
+    "id": 20112,
+    "topicId": "transposition",
+    "stem": "Alu elements are:",
+    "choices": [
+      "SINEs that require LINE-1 machinery",
+      "Autonomous retrotransposons",
+      "DNA transposons with transposase",
+      "Centromeric repeats",
+      "Unique exons"
+    ],
+    "answer": 0,
+    "explanation": "Alu (SINE) rely on LINE-1 for mobility."
+  },
+  {
+    "id": 20113,
+    "topicId": "transposition",
+    "stem": "DNA transposons typically move by:",
+    "choices": [
+      "Cut-and-paste mechanism using transposase",
+      "Reverse transcription",
+      "Cre-loxP recombination",
+      "Ligase-only process",
+      "RAG1/2 cleavage"
+    ],
+    "answer": 0,
+    "explanation": "Class II DNA transposons excise and insert elsewhere."
+  },
+  {
+    "id": 20114,
+    "topicId": "transposition",
+    "stem": "Insertional mutagenesis by transposons can:",
+    "choices": [
+      "Disrupt gene function or alter expression",
+      "Repair DNA damage",
+      "Fix mismatches",
+      "Shorten telomeres",
+      "Stabilize centromeres only"
+    ],
+    "answer": 0,
+    "explanation": "Insertions can inactivate genes or modify regulation."
+  },
+  {
+    "id": 20115,
+    "topicId": "transposition",
+    "stem": "Retrotransposon target-primed reverse transcription starts with:",
+    "choices": [
+      "Endonuclease nicking of target DNA to prime reverse transcription",
+      "Random ligation",
+      "Holliday junction formation",
+      "Okazaki fragment priming",
+      "Topoisomerase nicking"
+    ],
+    "answer": 0,
+    "explanation": "LINE-1 endonuclease nicks DNA and uses the 3\u2032 end as a primer."
+  },
+  {
+    "id": 20116,
+    "topicId": "translation-initiation",
+    "stem": "Prokaryotic initiation involves base pairing between:",
+    "choices": [
+      "Shine\u2013Dalgarno sequence and 16S rRNA",
+      "Kozak sequence and 28S rRNA",
+      "5\u2032 cap and eIF4E only",
+      "IRES and 23S rRNA",
+      "Poly(A) tail and PABP only"
+    ],
+    "answer": 0,
+    "explanation": "SD aligns start codon in P site by pairing with 16S rRNA."
+  },
+  {
+    "id": 20117,
+    "topicId": "translation-initiation",
+    "stem": "Eukaryotic 40S subunit scans from the cap to find:",
+    "choices": [
+      "AUG in a favorable Kozak context",
+      "Shine\u2013Dalgarno sequence",
+      "A polycistronic start site",
+      "rut site for Rho",
+      "Upstream stop codon"
+    ],
+    "answer": 0,
+    "explanation": "Cap-dependent scanning selects AUG with good context."
+  },
+  {
+    "id": 20118,
+    "topicId": "translation-initiation",
+    "stem": "Which interaction promotes mRNA circularization?",
+    "choices": [
+      "eIF4E\u2013eIF4G\u2013PABP bridging cap and poly(A)",
+      "\u03c3 factor binding",
+      "Rho helicase binding",
+      "EF-G binding",
+      "IF3 binding"
+    ],
+    "answer": 0,
+    "explanation": "Closed-loop mRNA enhances initiation/reinitiation."
+  },
+  {
+    "id": 20119,
+    "topicId": "translation-initiation",
+    "stem": "Polycistronic mRNA is typical of:",
+    "choices": [
+      "Prokaryotes with operons",
+      "Eukaryotic nuclear transcripts",
+      "Mitochondrial mRNAs only",
+      "Secretory mRNAs",
+      "ER-translated mRNAs only"
+    ],
+    "answer": 0,
+    "explanation": "Operons yield polycistronic messages in bacteria."
+  },
+  {
+    "id": 20120,
+    "topicId": "translation-initiation",
+    "stem": "Mutating SD sequence would most directly impair:",
+    "choices": [
+      "Ribosome binding/start-site selection",
+      "Peptidyl transferase activity",
+      "Translocation",
+      "tRNA charging",
+      "Termination"
+    ],
+    "answer": 0,
+    "explanation": "SD pairing positions the start codon."
+  },
+  {
+    "id": 20121,
+    "topicId": "translation-elongation",
+    "stem": "Peptidyl transferase activity resides in:",
+    "choices": [
+      "rRNA (23S/28S) of the large subunit (ribozyme)",
+      "Protein L27 only",
+      "Small subunit proteins",
+      "EF-Tu",
+      "eIF2"
+    ],
+    "answer": 0,
+    "explanation": "The ribosome is a ribozyme; peptidyl transferase is rRNA-catalyzed."
+  },
+  {
+    "id": 20122,
+    "topicId": "translation-elongation",
+    "stem": "In bacteria, EF-G promotes:",
+    "choices": [
+      "Translocation of ribosome along mRNA",
+      "tRNA charging",
+      "Initiation complex formation",
+      "Termination at stop codons",
+      "Cap binding"
+    ],
+    "answer": 0,
+    "explanation": "EF-G (eEF2 in eukaryotes) drives translocation."
+  },
+  {
+    "id": 20123,
+    "topicId": "translation-elongation",
+    "stem": "Accuracy during codon recognition is aided by:",
+    "choices": [
+      "Kinetic proofreading in the decoding center of 30S",
+      "3\u2032\u21925\u2032 exonuclease of ribosome",
+      "HAT activity",
+      "Topoisomerase",
+      "Helicase"
+    ],
+    "answer": 0,
+    "explanation": "Decoding center ensures correct codon\u2013anticodon pairing."
+  },
+  {
+    "id": 20124,
+    "topicId": "translation-elongation",
+    "stem": "Translocation requires hydrolysis of:",
+    "choices": [
+      "GTP",
+      "ATP",
+      "CTP",
+      "No nucleotide",
+      "NAD+"
+    ],
+    "answer": 0,
+    "explanation": "EF-G/eEF2 is a GTPase."
+  },
+  {
+    "id": 20125,
+    "topicId": "translation-elongation",
+    "stem": "E-site occupancy represents:",
+    "choices": [
+      "Deacylated tRNA prior to exit",
+      "Incoming aa-tRNA",
+      "Peptidyl-tRNA",
+      "Release factor binding",
+      "Shine\u2013Dalgarno pairing"
+    ],
+    "answer": 0,
+    "explanation": "E site holds deacylated tRNA before dissociation."
+  },
+  {
+    "id": 20126,
+    "topicId": "translation-inhibitors",
+    "stem": "Aminoglycosides primarily:",
+    "choices": [
+      "Induce misreading by binding 30S",
+      "Block peptide bond formation",
+      "Prevent aa-tRNA entry at 50S",
+      "Block translocation by EF-G",
+      "Inhibit initiation at 40S"
+    ],
+    "answer": 0,
+    "explanation": "30S binding induces mistranslation."
+  },
+  {
+    "id": 20127,
+    "topicId": "translation-inhibitors",
+    "stem": "Macrolides inhibit:",
+    "choices": [
+      "Translocation on 50S",
+      "tRNA charging",
+      "5\u2032 cap formation",
+      "Rho-dependent termination",
+      "DNA supercoiling"
+    ],
+    "answer": 0,
+    "explanation": "Macrolides bind 50S exit tunnel blocking translocation."
+  },
+  {
+    "id": 20128,
+    "topicId": "translation-inhibitors",
+    "stem": "Chloramphenicol blocks:",
+    "choices": [
+      "Peptidyl transferase on 50S",
+      "Decoding center 30S",
+      "Ribosome recycling",
+      "SD pairing",
+      "tRNA charging"
+    ],
+    "answer": 0,
+    "explanation": "Directly inhibits peptide bond formation."
+  },
+  {
+    "id": 20129,
+    "topicId": "translation-inhibitors",
+    "stem": "Tetracyclines act by:",
+    "choices": [
+      "Blocking aa-tRNA entry into A site (30S)",
+      "Blocking peptidyl transferase",
+      "Inhibiting EF-G",
+      "Promoting stop-codon readthrough",
+      "Inhibiting eIF2"
+    ],
+    "answer": 0,
+    "explanation": "They sterically hinder A-site entry."
+  },
+  {
+    "id": 20130,
+    "topicId": "translation-inhibitors",
+    "stem": "Linezolid most directly:",
+    "choices": [
+      "Prevents 50S initiation complex formation",
+      "Induces misreading",
+      "Blocks translocation",
+      "Blocks peptidyl transferase",
+      "Inhibits aminoacyl-tRNA synthetases"
+    ],
+    "answer": 0,
+    "explanation": "Oxazolidinones inhibit initiation at 50S."
+  },
+  {
+    "id": 20131,
+    "topicId": "code-properties",
+    "stem": "Genetic code is:",
+    "choices": [
+      "Degenerate (redundant) and unambiguous",
+      "Ambiguous",
+      "Overlapping",
+      "Non-degenerate",
+      "Organism-specific without exceptions"
+    ],
+    "answer": 0,
+    "explanation": "Multiple codons per amino acid, but each codon specifies one amino acid."
+  },
+  {
+    "id": 20132,
+    "topicId": "code-properties",
+    "stem": "Wobble refers to:",
+    "choices": [
+      "Flexibility at 3rd codon position allowing noncanonical pairing",
+      "Frameshifting",
+      "Alternative splicing",
+      "IRES-mediated initiation",
+      "Stop-codon suppression only"
+    ],
+    "answer": 0,
+    "explanation": "Third base pairing rules are relaxed (e.g., inosine)."
+  },
+  {
+    "id": 20133,
+    "topicId": "code-properties",
+    "stem": "AUG codon typically encodes:",
+    "choices": [
+      "Methionine and serves as start codon",
+      "Formylmethionine in eukaryotes",
+      "Tryptophan",
+      "Stop signal",
+      "Leucine"
+    ],
+    "answer": 0,
+    "explanation": "AUG = start; Met (fMet in bacteria for initiation)."
+  },
+  {
+    "id": 20134,
+    "topicId": "code-properties",
+    "stem": "Stop codons include:",
+    "choices": [
+      "UAA, UAG, UGA",
+      "UAG, UGG, UGA",
+      "UAA, UGA, UGG",
+      "UUA, UAG, UGA",
+      "UGG, UGA, UAG"
+    ],
+    "answer": 0,
+    "explanation": "Three stop codons do not encode amino acids."
+  },
+  {
+    "id": 20135,
+    "topicId": "code-properties",
+    "stem": "Selenocysteine insertion requires:",
+    "choices": [
+      "SECIS element and specialized tRNA",
+      "IRES only",
+      "Inosine wobble",
+      "Splicing of UGA",
+      "Rho factor"
+    ],
+    "answer": 0,
+    "explanation": "Special machinery recodes UGA at SECIS elements."
+  },
+  {
+    "id": 20136,
+    "topicId": "horizontal-transfer",
+    "stem": "Which mechanism is DNase-sensitive in medium?",
+    "choices": [
+      "Transformation",
+      "Conjugation",
+      "Generalized transduction",
+      "Specialized transduction",
+      "Hfr transfer"
+    ],
+    "answer": 0,
+    "explanation": "Naked DNA uptake is degraded by DNase."
+  },
+  {
+    "id": 20137,
+    "topicId": "horizontal-transfer",
+    "stem": "F+ donor transfers plasmid to F\u2212 via pilus describes:",
+    "choices": [
+      "Conjugation via F plasmid",
+      "Transformation",
+      "Generalized transduction",
+      "Specialized transduction",
+      "Natural competence"
+    ],
+    "answer": 0,
+    "explanation": "Sex pilus-mediated plasmid transfer is conjugation."
+  },
+  {
+    "id": 20138,
+    "topicId": "horizontal-transfer",
+    "stem": "Hfr strains are characterized by:",
+    "choices": [
+      "High-frequency transfer of chromosomal genes from oriT",
+      "Preferential plasmid-only transfer",
+      "DNase-sensitive mechanism",
+      "Phage requirement",
+      "No recombination in recipient"
+    ],
+    "answer": 0,
+    "explanation": "Hfr integrates F into chromosome and mobilizes it."
+  },
+  {
+    "id": 20139,
+    "topicId": "horizontal-transfer",
+    "stem": "Mechanism requiring phage packaging of host DNA:",
+    "choices": [
+      "Generalized transduction",
+      "Conjugation",
+      "Transformation",
+      "Specialized transduction uses pilus",
+      "Natural competence"
+    ],
+    "answer": 0,
+    "explanation": "Lytic phages can mispackage bacterial DNA."
+  },
+  {
+    "id": 20140,
+    "topicId": "horizontal-transfer",
+    "stem": "Enterococcus pheromone-induced adhesins promote:",
+    "choices": [
+      "Conjugation",
+      "Transformation",
+      "Generalized transduction",
+      "Specialized transduction",
+      "Operon attenuation"
+    ],
+    "answer": 0,
+    "explanation": "Pheromone-responsive plasmids drive conjugation in some Gram-positives."
+  },
+  {
+    "id": 20141,
+    "topicId": "operons",
+    "stem": "Operons typically produce:",
+    "choices": [
+      "Polycistronic mRNAs under shared promoter/operator control",
+      "Monocistronic mRNAs only",
+      "mRNAs with 5\u2032 caps",
+      "DNA repair enzymes only",
+      "Telomerase RNAs"
+    ],
+    "answer": 0,
+    "explanation": "Operon genes are co-transcribed."
+  },
+  {
+    "id": 20142,
+    "topicId": "operons",
+    "stem": "Lac operon is strongly induced when:",
+    "choices": [
+      "Lactose present and glucose low (\u2191cAMP-CAP)",
+      "Lactose absent, glucose high",
+      "Glucose high regardless of lactose",
+      "Tryptophan present",
+      "Arabinose absent"
+    ],
+    "answer": 0,
+    "explanation": "Allolactose inactivates repressor; cAMP-CAP enhances transcription."
+  },
+  {
+    "id": 20143,
+    "topicId": "operons",
+    "stem": "Attenuation is best exemplified by:",
+    "choices": [
+      "Trp operon in bacteria",
+      "Lac operon",
+      "Eukaryotic promoters",
+      "tRNA charging",
+      "Ribosome shunting"
+    ],
+    "answer": 0,
+    "explanation": "Ribosome sensing of Trp levels affects transcription termination."
+  },
+  {
+    "id": 20144,
+    "topicId": "operons",
+    "stem": "Operator mutations that prevent repressor binding cause:",
+    "choices": [
+      "Constitutive expression",
+      "No expression ever",
+      "Increased attenuation",
+      "Inability to bind RNAP",
+      "Loss of promoter"
+    ],
+    "answer": 0,
+    "explanation": "If repressor cannot bind operator, operon is always ON."
+  },
+  {
+    "id": 20145,
+    "topicId": "operons",
+    "stem": "CAP\u2013cAMP complex binds near promoter to:",
+    "choices": [
+      "Increase transcription in low glucose",
+      "Repress transcription",
+      "Block RNA polymerase binding",
+      "Activate ribosomes",
+      "Terminate transcription"
+    ],
+    "answer": 0,
+    "explanation": "CAP\u2013cAMP is an activator when glucose is scarce."
+  },
+  {
+    "id": 20146,
+    "topicId": "virulence-toxins",
+    "stem": "Endotoxin (LPS) primarily triggers:",
+    "choices": [
+      "TLR4-mediated cytokine release, fever, hypotension",
+      "AB toxin entry into cells",
+      "Protein synthesis inhibition via EF-2 ADP-ribosylation",
+      "cAMP increase via adenylate cyclase toxin only",
+      "Phage-mediated uptake"
+    ],
+    "answer": 0,
+    "explanation": "LPS activates TLR4 \u2192 cytokine storm/septic shock."
+  },
+  {
+    "id": 20147,
+    "topicId": "virulence-toxins",
+    "stem": "A-B toxins typically act by:",
+    "choices": [
+      "Binding via B subunit and catalytic A subunit activity inside",
+      "Binding but staying extracellular",
+      "Integrating into genome",
+      "Blocking ribosome assembly extracellularly",
+      "TLR3 activation"
+    ],
+    "answer": 0,
+    "explanation": "B binds, A acts (e.g., diphtheria, cholera toxins)."
+  },
+  {
+    "id": 20148,
+    "topicId": "virulence-toxins",
+    "stem": "Type III secretion systems allow:",
+    "choices": [
+      "Direct injection of effector proteins into host cells",
+      "Phage packaging of toxins",
+      "Biofilm EPS synthesis",
+      "Capsule formation exclusively",
+      "Conjugation"
+    ],
+    "answer": 0,
+    "explanation": "Needle-like injectisomes deliver effectors."
+  },
+  {
+    "id": 20149,
+    "topicId": "virulence-toxins",
+    "stem": "Corynebacterium diphtheriae toxin MOA:",
+    "choices": [
+      "ADP-ribosylates EF-2 \u2192 inhibits translation",
+      "Ribosylates Gs\u03b1 \u2192 \u2191cAMP",
+      "Ribosylates Gi\u03b1 \u2192 \u2193cAMP",
+      "Cleaves rRNA at sarcin-ricin loop",
+      "Forms pores only"
+    ],
+    "answer": 0,
+    "explanation": "Diphtheria toxin inactivates EF-2."
+  },
+  {
+    "id": 20150,
+    "topicId": "virulence-toxins",
+    "stem": "Cholera toxin MOA:",
+    "choices": [
+      "ADP-ribosylates Gs\u03b1 \u2192 \u2191cAMP \u2192 secretory diarrhea",
+      "Inhibits adenylate cyclase",
+      "Ribosylates Gi\u03b1 \u2192 \u2193cAMP",
+      "Blocks Na+/glucose cotransporter",
+      "Cleaves actin"
+    ],
+    "answer": 0,
+    "explanation": "Gs activation increases cAMP and chloride secretion."
+  },
+  {
+    "id": 20151,
+    "topicId": "biofilms-quorum",
+    "stem": "Biofilms are embedded in:",
+    "choices": [
+      "Extracellular polymeric substances (EPS) matrix",
+      "Peptidoglycan only",
+      "Teichoic acids only",
+      "Capsid proteins",
+      "Pure cellulose"
+    ],
+    "answer": 0,
+    "explanation": "EPS contains polysaccharides, DNA, proteins."
+  },
+  {
+    "id": 20152,
+    "topicId": "biofilms-quorum",
+    "stem": "Quorum sensing allows bacteria to:",
+    "choices": [
+      "Coordinate gene expression based on cell density",
+      "Integrate into host genome",
+      "Undergo meiosis",
+      "Sporulate only",
+      "Transduce DNA via phage"
+    ],
+    "answer": 0,
+    "explanation": "Autoinducers accumulate and trigger community behaviors."
+  },
+  {
+    "id": 20153,
+    "topicId": "biofilms-quorum",
+    "stem": "Biofilms on catheters increase infections primarily by:",
+    "choices": [
+      "Protecting bacteria from antibiotics and immunity",
+      "Increasing motility",
+      "Lowering mutation rate",
+      "Sterilizing surfaces",
+      "Producing endotoxin only"
+    ],
+    "answer": 0,
+    "explanation": "EPS and slow growth reduce antibiotic penetration and immune killing."
+  },
+  {
+    "id": 20154,
+    "topicId": "biofilms-quorum",
+    "stem": "Pseudomonas aeruginosa biofilm hallmark:",
+    "choices": [
+      "Alginate production",
+      "Teichoic acid production",
+      "Protein A expression",
+      "M protein expression",
+      "Hyaluronate capsule"
+    ],
+    "answer": 0,
+    "explanation": "Alginate contributes to mucoid phenotype and biofilm."
+  },
+  {
+    "id": 20155,
+    "topicId": "biofilms-quorum",
+    "stem": "A strategy to disrupt biofilms includes:",
+    "choices": [
+      "DNase treatment to degrade extracellular DNA",
+      "Increasing glucose",
+      "Adding Mg2+",
+      "Blocking ribosomes only",
+      "Chelating Ca2+ to zero"
+    ],
+    "answer": 0,
+    "explanation": "Extracellular DNA is a key EPS component; DNase can disrupt it."
+  },
+  {
+    "id": 20156,
+    "topicId": "hist-epithelium",
+    "stem": "A tissue with flattened cells and minimal cytoplasm lining alveoli is:",
+    "choices": [
+      "Simple squamous epithelium",
+      "Stratified squamous nonkeratinized",
+      "Transitional epithelium",
+      "Simple columnar with microvilli",
+      "Pseudostratified ciliated columnar"
+    ],
+    "answer": 0,
+    "explanation": "Simple squamous lines alveoli and endothelium; facilitates diffusion."
+  },
+  {
+    "id": 20157,
+    "topicId": "hist-epithelium",
+    "stem": "Esophageal mucosa is best described as:",
+    "choices": [
+      "Stratified squamous nonkeratinized epithelium",
+      "Simple columnar with goblet cells",
+      "Transitional epithelium",
+      "Keratinized stratified squamous",
+      "Simple cuboidal"
+    ],
+    "answer": 0,
+    "explanation": "Esophagus uses nonkeratinized stratified squamous for protection."
+  },
+  {
+    "id": 20158,
+    "topicId": "hist-epithelium",
+    "stem": "Urothelium (transitional epithelium) characteristic cell:",
+    "choices": [
+      "Dome-shaped umbrella cells",
+      "Ciliated columnar cells",
+      "Keratinized superficial cells",
+      "Paneth cells",
+      "Kupffer cells"
+    ],
+    "answer": 0,
+    "explanation": "Umbrella cells accommodate stretch in urinary tract."
+  },
+  {
+    "id": 20159,
+    "topicId": "hist-epithelium",
+    "stem": "Respiratory epithelium in trachea:",
+    "choices": [
+      "Pseudostratified ciliated columnar with goblet cells",
+      "Simple squamous only",
+      "Stratified cuboidal",
+      "Simple columnar without cilia",
+      "Transitional"
+    ],
+    "answer": 0,
+    "explanation": "Classic tracheal lining is pseudostratified ciliated with goblet cells."
+  },
+  {
+    "id": 20160,
+    "topicId": "hist-epithelium",
+    "stem": "Small intestinal mucosa hallmark:",
+    "choices": [
+      "Simple columnar epithelium with villi and microvilli",
+      "Keratinized stratified squamous",
+      "Simple cuboidal only",
+      "Transitional",
+      "Stratified columnar"
+    ],
+    "answer": 0,
+    "explanation": "Enterocytes with microvilli increase absorptive surface."
+  },
+  {
+    "id": 20161,
+    "topicId": "hist-ct",
+    "stem": "Tendon best classified as:",
+    "choices": [
+      "Dense regular connective tissue rich in type I collagen",
+      "Dense irregular connective tissue",
+      "Loose areolar connective tissue",
+      "Elastic cartilage",
+      "Reticular tissue only"
+    ],
+    "answer": 0,
+    "explanation": "Parallel collagen bundles resist unidirectional tension."
+  },
+  {
+    "id": 20162,
+    "topicId": "hist-ct",
+    "stem": "Dermis (reticular layer) is mostly:",
+    "choices": [
+      "Dense irregular connective tissue",
+      "Dense regular tissue",
+      "Hyaline cartilage",
+      "Loose areolar only",
+      "Bone"
+    ],
+    "answer": 0,
+    "explanation": "Bundles of collagen in many directions resist stress."
+  },
+  {
+    "id": 20163,
+    "topicId": "hist-ct",
+    "stem": "Type III collagen is abundant in:",
+    "choices": [
+      "Reticular fibers of lymphoid organs",
+      "Bone lamellae",
+      "Tendon",
+      "Hyaline cartilage matrix (Type II)",
+      "Basement membrane (Type IV)"
+    ],
+    "answer": 0,
+    "explanation": "Reticular fibers support lymph nodes, spleen, liver."
+  },
+  {
+    "id": 20164,
+    "topicId": "hist-ct",
+    "stem": "Basement membrane major collagen:",
+    "choices": [
+      "Type IV collagen network",
+      "Type I collagen",
+      "Type II collagen",
+      "Type III collagen",
+      "Type V collagen only"
+    ],
+    "answer": 0,
+    "explanation": "Type IV forms sheet-like networks in basal lamina."
+  },
+  {
+    "id": 20165,
+    "topicId": "hist-ct",
+    "stem": "Elastic arteries feature:",
+    "choices": [
+      "Elastic lamellae in tunica media",
+      "Few elastic fibers",
+      "No smooth muscle",
+      "Cartilage plates",
+      "Keratin"
+    ],
+    "answer": 0,
+    "explanation": "Aorta has multiple elastic lamellae for recoil."
+  },
+  {
+    "id": 20166,
+    "topicId": "hist-muscle",
+    "stem": "Cardiac muscle distinguished by:",
+    "choices": [
+      "Branched fibers with central nuclei and intercalated discs",
+      "Multinucleated unbranched fibers without discs",
+      "No striations or discs; spindle-shaped",
+      "Peripheral nuclei and no striations",
+      "Dense bodies absent"
+    ],
+    "answer": 0,
+    "explanation": "Cardiac muscle is striated, branching, with intercalated discs."
+  },
+  {
+    "id": 20167,
+    "topicId": "hist-muscle",
+    "stem": "Skeletal muscle feature:",
+    "choices": [
+      "Peripheral nuclei and prominent cross-striations",
+      "Central nuclei and discs",
+      "No striations",
+      "Smooth ER absent",
+      "Single nucleus"
+    ],
+    "answer": 0,
+    "explanation": "Skeletal fibers are multinucleated, peripheral nuclei, striated."
+  },
+  {
+    "id": 20168,
+    "topicId": "hist-muscle",
+    "stem": "Smooth muscle contraction depends on:",
+    "choices": [
+      "Calmodulin\u2013MLCK pathway",
+      "Troponin C binding",
+      "Dynein arms",
+      "Titin unfolding",
+      "T-tubule triads"
+    ],
+    "answer": 0,
+    "explanation": "Ca2+\u2013calmodulin activates MLCK to phosphorylate myosin light chains."
+  },
+  {
+    "id": 20169,
+    "topicId": "hist-muscle",
+    "stem": "Intercalated discs contain:",
+    "choices": [
+      "Desmosomes, fascia adherens, and gap junctions",
+      "Tight junctions only",
+      "Hemidesmosomes only",
+      "Caveolae only",
+      "Cilia"
+    ],
+    "answer": 0,
+    "explanation": "Discs mechanically and electrically couple cardiomyocytes."
+  },
+  {
+    "id": 20170,
+    "topicId": "hist-muscle",
+    "stem": "Myasthenia gravis primarily affects:",
+    "choices": [
+      "Nicotinic ACh receptors at neuromuscular junction",
+      "Voltage-gated Ca2+ channels presynaptically",
+      "Desmosomes",
+      "Gap junctions",
+      "Troponin"
+    ],
+    "answer": 0,
+    "explanation": "Autoantibodies target postsynaptic ACh receptors."
+  },
+  {
+    "id": 20171,
+    "topicId": "hist-neuro",
+    "stem": "Large neuron somata on H&E show:",
+    "choices": [
+      "Prominent nucleolus and Nissl substance",
+      "No nucleolus and scant cytoplasm",
+      "Keratin filaments",
+      "Dense bodies",
+      "Goblet cells"
+    ],
+    "answer": 0,
+    "explanation": "Nissl bodies (rough ER) basophilia and big nucleolus are classic."
+  },
+  {
+    "id": 20172,
+    "topicId": "hist-neuro",
+    "stem": "Myelin in CNS is produced by:",
+    "choices": [
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Astrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "answer": 0,
+    "explanation": "Oligodendrocytes myelinate CNS axons; Schwann cells in PNS."
+  },
+  {
+    "id": 20173,
+    "topicId": "hist-neuro",
+    "stem": "Node of Ranvier function:",
+    "choices": [
+      "Saltatory conduction between myelin internodes",
+      "Synaptic vesicle release",
+      "Protein synthesis in axon",
+      "Myelin production",
+      "Phagocytosis"
+    ],
+    "answer": 0,
+    "explanation": "Nodes enable rapid AP propagation."
+  },
+  {
+    "id": 20174,
+    "topicId": "hist-neuro",
+    "stem": "Dorsal root ganglion histology shows:",
+    "choices": [
+      "Pseudounipolar neurons with satellite cells",
+      "Multipolar neurons only",
+      "Purkinje cells",
+      "Pyramidal neurons",
+      "Rod cells"
+    ],
+    "answer": 0,
+    "explanation": "DRG has pseudounipolar neurons encircled by satellite glia."
+  },
+  {
+    "id": 20175,
+    "topicId": "hist-neuro",
+    "stem": "Reactive astrocytosis histologic hallmark:",
+    "choices": [
+      "GFAP-positive hypertrophic astrocytes",
+      "Neutrophil abscess",
+      "Caseous necrosis",
+      "Tart cells",
+      "Keratin pearls"
+    ],
+    "answer": 0,
+    "explanation": "Gliosis features GFAP+ astrocyte proliferation and hypertrophy."
+  },
+  {
+    "id": 20176,
+    "topicId": "hist-path",
+    "stem": "Reversible cell injury on light microscopy often shows:",
+    "choices": [
+      "Cellular swelling (hydropic change) and fatty change",
+      "Karyorrhexis and eosinophilic cytoplasm",
+      "Nuclear fragmentation and pyknosis only",
+      "Caseous necrosis",
+      "Fibroid necrosis"
+    ],
+    "answer": 0,
+    "explanation": "Reversible injury includes swelling and fatty change; irreversible injury shows nuclear changes."
+  },
+  {
+    "id": 20177,
+    "topicId": "hist-path",
+    "stem": "Coagulative necrosis typical of:",
+    "choices": [
+      "Ischemic infarcts in most solid organs (except brain)",
+      "Abscesses",
+      "Pancreatitis fat necrosis only",
+      "Brain infarcts",
+      "Granulomas"
+    ],
+    "answer": 0,
+    "explanation": "Coagulative necrosis preserves architecture; liquefactive in brain."
+  },
+  {
+    "id": 20178,
+    "topicId": "hist-path",
+    "stem": "Liquefactive necrosis is characteristic of:",
+    "choices": [
+      "Bacterial abscesses and brain infarcts",
+      "Ischemic myocardium",
+      "Tuberculosis granulomas",
+      "Fibrinoid vasculitis",
+      "Coagulative necrosis"
+    ],
+    "answer": 0,
+    "explanation": "Hydrolytic enzymes digest tissue into liquid viscous mass."
+  },
+  {
+    "id": 20179,
+    "topicId": "hist-path",
+    "stem": "Caseous necrosis is classically seen in:",
+    "choices": [
+      "Tuberculosis granulomas",
+      "Ischemic kidney",
+      "Brain abscess",
+      "Fat necrosis",
+      "Gangrenous toe"
+    ],
+    "answer": 0,
+    "explanation": "Cheese-like necrosis in TB and some fungal infections."
+  },
+  {
+    "id": 20180,
+    "topicId": "hist-path",
+    "stem": "Irreversible cell injury hallmark:",
+    "choices": [
+      "Loss of mitochondrial membrane potential and membrane rupture",
+      "Cell swelling only",
+      "Ribosomal dissociation only",
+      "Fatty change only",
+      "Glycogen depletion only"
+    ],
+    "answer": 0,
+    "explanation": "Point of no return involves mitochondrial dysfunction and membrane damage."
+  }
+]

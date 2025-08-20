@@ -1,11 +1,11 @@
-// src/main.jsx
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";             // ✅ bring back your styles
-import GameMED from "./pages/Game.jsx";
+import App from "./App.jsx";
+import "./index.css"; // << Tailwind styles
 
-ReactDOM.createRoot(document.getElementById("root")).render(
+const root = document.getElementById("root");
+ReactDOM.createRoot(root).render(
   <React.StrictMode>
-    <GameMED />
+    <App />
   </React.StrictMode>
 );
